@@ -6,6 +6,6 @@ Download quickshare
 url :- https://github.com/GlADi4t0r/file-share-via-lan-and-wifi-fastest-and-best/raw/refs/heads/main/QuickShare.exe
 
 Downlaod next gen quickshare 
-url :- 
+url :- https://github.com/GlADi4t0r/file-share-via-lan-and-wifi-fastest-and-best/raw/refs/heads/main/NextGenQuickShare.exe
 
 while i tried it with my pc and android with wifi 6 and lan it goes upto 546 MBps can transfer file upto 50gb in one go
